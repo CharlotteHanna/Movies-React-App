@@ -12,7 +12,7 @@ Project consists of a simple user interface built in React with a search bar to 
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>App walk-through:</h2>
 
 <p align="center">
 Home Page: <br/>
